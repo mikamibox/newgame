@@ -1,4 +1,4 @@
-[_tb_system_call storage=system/_scene1.ks]
+
 
 [popopo  type="sine"  volume="20"  time="20"  octave="0"  frequency="A"  chara="にんげん"  ]
 [popopo  type="square"  volume="10"  time="20"  octave="0"  frequency="A"  chara="モチリン"  storage="ponyo.ogg"  ]
